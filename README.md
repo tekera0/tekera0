@@ -1,10 +1,11 @@
 <table width="100%">
 <tr>
-<td width="60%">
+<td width="50%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&height=100&pause=1000&width=435&lines=Hello+World+!;Its+tekera)](https://git.io/typing-svg)
+
 </td>
-<td width="40%">
+<td width="50%">
 <img src=https://i.giphy.com/b29IZK1dP4aWs.webp>
 </td>
 </tr>
@@ -25,7 +26,8 @@
 <br>
 - ⚡ Fun fact 
 
-$\color{#83EB52}{\textsf{ The term "bug" became famous in 1947 when Grace Hopper’s team found an actual moth trapped inside a relay of the Harvard Mark II computer.}}$
+$\color{#83EB52}{\textsf{ The term "bug" became famous in 1947 when Grace Hopper’s team found an actual moth trapped inside a relay of the}}$
+$\color{#83EB52}{\textsf{ Harvard Mark II computer.}}$
 <br>
 
 ---
